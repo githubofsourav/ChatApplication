@@ -12,7 +12,7 @@
             android:text="Sourav"
             android:textSize="30sp"
             android:textStyle="bold"
-            android:layout_marginLeft="15dp"/>
+            android:layout_marginLeft="10dp"/>
         <View
             android:layout_below="@id/txt_name"
             android:layout_marginTop="5dp"
